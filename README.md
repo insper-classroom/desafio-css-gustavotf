@@ -9,3 +9,4 @@ Adicione aqui o nome de todos os integrantes:
 
 Site do GitHub Pages:
 https://insper-classroom.github.io/desafio-css-gustavotf/
+por que agora o link do site só está levando ao readme?
