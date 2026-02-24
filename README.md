@@ -6,3 +6,6 @@ Para mais detalhes acesse: [https://barbaratieko.github.io/tecweb/aulas/02-desaf
 Adicione aqui o nome de todos os integrantes:
 
 - Gustavo Torquato Fernandez
+
+Site do GitHub Pages:
+https://insper-classroom.github.io/desafio-css-gustavotf/
